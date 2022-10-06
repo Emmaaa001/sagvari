@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Órarend</h1>
+    <table>
+        <tr>
+            <th>óra</th> <th>Hétfő</th> <th>Kedd</th>
+            <th>Szerda</th> <th>Csütörtök</th> <th>Péntek</th>
+    </tr>
+    <tr>
+        <td>1.</td> <td>kémia</td> <td>föci</td>
+        <td>tesi</td> <td>matek</td> <td>angol</td>
+    </tr>
+    <tr>
+        <td>2.</td> <td>rajz</td> <td>matek</td>
+        <td>töri</td> <td>magyar</td> <td>fizika</td>
+    </tr>
+    <tr>
+        <td>3.</td> <td>biosz</td> <td>töri</td>
+        <td>magyar</td> <td>angol</td> <td>magyar</td>
+    </tr>
+    <tr>
+        <td>4.</td> <td>matek</td> <td>tesi</td>
+        <td>fizika</td> <td>kémia</td> <td>biosz</td>
+    </tr>
+    <tr>
+        <td>5.</td> <td>töri</td> <td>infó</td>
+        <td>matek</td> <td>tesi</td> <td>töri</td>
+    </tr>
+    <tr>
+        <td>6.</td> <td>föci</td> <td>magyar</td> 
+        <td>angol</td> <td>infó</td> <td>rajz</td>
+    </tr>
+</table>
+<style>
+    td {
+        background-color: beige;
+        text-align: center;
+        border: solid 1px rgb(17, 26, 17);
+    }
+    th {
+        width: 120px;
+        background-color: blueviolet;
+        border:rgb(199, 205, 164)
+    }
+</style>
+
+    </body>
+</html>
